@@ -30,4 +30,4 @@ Contributions are welcome! Feel free to open a pull request or an issue if you f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Not licenced :D <3
